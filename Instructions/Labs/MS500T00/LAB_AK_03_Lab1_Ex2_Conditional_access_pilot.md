@@ -60,7 +60,7 @@
 조건부 액세스 정책이 작동함을 확인하기 위해 MFA가 필요하지 않은 리소스에 테스트 로그인한 다음 MFA가 필요한 Azure Portal에 로그인합니다.
 
 
-2.  InPrivate 또는 시크릿 모드에서 새 브라우저 창을 열고 **`https://portal.azure.com`**으로 이동합니다.
+2.  InPrivate 또는 시크릿 모드에서 새 브라우저 창을 열고 **`https://portal.azure.com`** 으로 이동합니다.
 
        * Lynne Robbins 사용자로 로그인합니다(Lynne의 암호는 랩 호스팅 공급자가 제공한 MOD 관리자 암호와 동일할 가능성이 높음). 그런 다음 이제는 Azure Multi-Factor Authentication에 등록하고 MFA를 사용해야 함을 확인합니다.
        * 브라우저 창을 닫습니다.

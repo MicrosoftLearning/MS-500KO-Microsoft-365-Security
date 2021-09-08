@@ -11,7 +11,7 @@
 
 1. 클라이언트 1 VM(LON-CL1)에는 **lon-cl1\admin** 계정으로, Microsoft 365에는 Holly Dickson(**holly@M365xZZZZZZ.onmicrosoft.com**, 암호 **Pa55w.rd**)으로 로그인되어 있는 상태여야 합니다.
 
-2. **Microsoft Edge**에는 **Microsoft 365 관리 센터** 탭이 열려 있어야 합니다. 해당 탭이 열려 있으면 지금 선택합니다. 해당 탭이 열려 있지 않으면 **https://portal.office.com**을 입력하고 **Holly**로 로그인한 후에 **Microsoft Office 홈** 페이지에서 **관리**를 선택합니다.
+2. **Microsoft Edge**에는 **Microsoft 365 관리 센터** 탭이 열려 있어야 합니다. 해당 탭이 열려 있으면 지금 선택합니다. 해당 탭이 열려 있지 않으면 **https://portal.office.com** 을 입력하고 **Holly**로 로그인한 후에 **Microsoft Office 홈** 페이지에서 **관리**를 선택합니다.
 
 3. **Microsoft 365 관리 센터**의 왼쪽 탐색 창에서 **청구**를 선택하고 그 아래에서 **라이선스**를 선택합니다.
 
