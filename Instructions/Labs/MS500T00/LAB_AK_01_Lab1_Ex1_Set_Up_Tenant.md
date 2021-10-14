@@ -1,4 +1,4 @@
-﻿# 모듈 1 - 랩 1 - 연습 1 - Microsoft 365 테넌트 설정 
+# 모듈 1 - 랩 1 - 연습 1 - Microsoft 365 테넌트 설정 
 
 다음 랩 연습에서는 Adatum Corporation 보안 관리자인 Holly Dickson 역할을 맡아 작업을 진행합니다. Adatum은 온-프레미스 배포에서 레거시 애플리케이션(예: Microsoft Exchange)을 실행합니다. 그런데 최근 Microsoft 365를 구독하여 하이브리드 배포를 만들었습니다. 이 배포에서는 온-프레미스 배포와 클라우드 배포를 동기화해야 합니다. 
 
