@@ -1,4 +1,4 @@
-﻿# 모듈 3 - 랩 2 - 연습 4 - 디렉터리 역할(일반)
+# 모듈 3 - 랩 2 - 연습 4 - 디렉터리 역할(일반)
 
 
 ### 작업 1: PIM에서 Azure AD 디렉터리 역할의 액세스 검토 시작
@@ -16,9 +16,9 @@
 1.  다음 세부 정보를 입력하고 **시작**을 클릭합니다.
 
       - 검토 이름:  `Global Admin Review`
-      - 시작 날짜:  `Today's Date` 
-      - 빈도: `One time`
-      - 종료 날짜:  `End of next month`
+      - 시작 날짜:  `Enter Today's Date` 
+      - 빈도: `Drop down to One time`
+      - 종료 날짜:  `Enter End of next month`
       - 역할 구성원 검토:  `Global Administrator`
       - 검토자:  `Holly Dickson`
  

@@ -1,4 +1,4 @@
-﻿# 모듈 5 - 랩 1 - 연습 1 - ATP 정책 구현  
+# 모듈 5 - 랩 1 - 연습 1 - ATP 정책 구현  
 
 이전 연습에서 Holly Dickson의 전역 관리자 계정을 설정했으며, 현재 Microsoft 365에 Holly로 로그인한 상태입니다. Adatum 파일럿 프로젝트의 이 단계에서는 기존 ATP 안전한 링크 정책을 편집합니다. 그런 다음 안전한 첨부 파일 정책을 만들고 SharePoint, OneDrive, Microsoft Teams를 대상으로 Advanced Threat Protection을 활성화합니다. 그리고 두 정책의 유효성을 검사하여 정책이 정상적으로 작동하는지도 확인합니다.
 

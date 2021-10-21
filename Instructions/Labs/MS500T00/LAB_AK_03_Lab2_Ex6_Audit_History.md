@@ -1,4 +1,4 @@
-﻿# 모듈 3 - 랩 2 - 연습 6 - PIM에서 Azure AD 역할의 감사 기록 확인
+# 모듈 3 - 랩 2 - 연습 6 - PIM에서 Azure AD 역할의 감사 기록 확인
 
 
 Azure AD PIM(Active Directory Privileged Identity Management) 감사 기록을 사용하여 모든 권한 있는 역할에 대해 지난 30일 동안 수행된 역할 할당 및 활성화를 모두 확인할 수 있습니다. 디렉터리에서 관리자, 최종 사용자 및 동기화 작업을 비롯한 활동의 전체 감사 기록을 확인하려는 경우 [Azure Active Directory 보안 및 활동 보고서](https://docs.microsoft.com/ko-kr/azure/active-directory/reports-monitoring/overview-reports)를 사용하면 됩니다.
