@@ -1,4 +1,4 @@
-# 모듈 11 - 랩 1 - 연습 1 - Privileged Access Management 설정 및 요청 처리
+﻿# 모듈 13 - 랩 1 - 연습 1 - Privileged Access Management 설정 및 요청 처리
 
 
 Adatum의 보안 관리자인 Holly Dickson은 전역 관리자를 위한 추가 액세스 관리 계층으로 Microsoft 365에서 Privileged Access Management를 설정하는 작업을 맡게 되었습니다. 구체적으로 설명하자면, Adatum은 전역 관리자가 MOD 관리자의 명확한 승인 없이는 Exchange 사서함을 이동하지 못하도록 설정하려고 합니다.
