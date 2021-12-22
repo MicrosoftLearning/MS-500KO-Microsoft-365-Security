@@ -1,4 +1,4 @@
-# 모듈 2 - 랩 1 - 연습 1 - 조직의 ID 동기화 설정 
+﻿# 모듈 2 - 랩 1 - 연습 1 - 조직의 ID 동기화 설정 
 
 이 연습에서는 Adatum Corporation의 보안 관리자인 Holly Dickson의 역할을 맡아 가상화된 랩 환경에 배포되어 있는 Microsoft 365를 사용합니다. 이 랩에서는 Microsoft 365 테넌트 계정과 로컬 Active Directory 계정 간의 ID 동기화를 구현합니다.
 
@@ -42,14 +42,25 @@
 
 ### 작업 4 - 디렉터리 동기화 결과 유효성 검사 및 사용자에게 라이선스 할당 
 
+**참고**  M365 구독이 프로비전되었을 때 사용 가능한 모든 라이선스가 할당되었습니다. 이 랩과 향후 랩을 위해 몇 개의 라이선스가 필요하기 때문에
+몇몇 사용자들의 라이선스 할당을 제거할 수 있습니다.
+
 1.	새로 만든 사용자를 확인하려면 브라우저의 주소 표시줄에 `https://portal.office.com`을 입력하여 브라우저에서 Office 365 관리 센터를 엽니다.  
 2.	다음 자격 증명을 사용하여 Holly Dickson으로 로그인합니다.  사용자 이름: **holly@M365xZZZZZZ.onmicrosoft.com**, 암호: `Pa55w.rd`  
 3.	**활성 사용자**로 이동합니다.  
-4.	이제 로컬 Active Directory에서 동기화된 사용자 수를 확인할 수 있습니다.  새로 고침 단추를 클릭하여 페이지의 데이터를 업데이트해야 할 수도 있습니다.  Abbie Parsons를 선택합니다.  Abbie는 동기화 전에는 AD DS 도메인에만 포함되어 있었던 사용자입니다. 
-5.	다음과 같이 Abbie Parsons의 제품 라이선스를 업데이트합니다. 
+4.	이제 로컬 Active Directory에서 동기화된 사용자 수를 확인할 수 있습니다.  새로 고침 단추를 클릭하여 페이지의 데이터를 업데이트해야 할 수도 있습니다.  
+5.	다음 사용자를 편집하여 Microsoft 365 E5 및 Enterprise Mobility + Security E5 라이선스를 **모두** 제거합니다.
+	-Debra Berger
+	-Irvin Sayers
+	-Johanna Lorenz
+	-Lidia Hallowey
+	-Pradeep Gupta
+**참고**  M365 구독이 프로비전되었을 때 사용 가능한 모든 라이선스가 할당되었습니다. 이 랩과 향후 랩을 위해 몇 개의 라이선스가 필요하기 때문에
+라이선스가 필요 없는 몇몇 사용자들의 라이선스 할당을 제거할 수 있습니다.
+6.	Abbie Parsons를 선택합니다.  Abbie는 동기화 전에는 AD DS 도메인에만 포함되어 있었던 사용자입니다. 다음과 같이 Abbie Parsons의 제품 라이선스를 업데이트합니다. 
 	- 위치 = 영국
 	- 제품 라이선스 = Enterprise Mobility + Security E5
-6.	**변경 내용 저장**을 클릭하여 변경 내용을 적용합니다. 창을 닫습니다.
+7.	**변경 내용 저장**을 클릭하여 변경 내용을 적용합니다. 창을 닫습니다.
 
 로컬 ADATUM 사용자를 Office 365에 동기화했으며 동기화된 사용자인 Abbie Parsons에게 라이선스를 할당했습니다.
 
