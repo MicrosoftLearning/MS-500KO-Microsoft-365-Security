@@ -1,4 +1,4 @@
-﻿# 모듈 2 - 랩 1 - 연습 1 - 조직의 ID 동기화 설정 
+# 모듈 2 - 랩 1 - 연습 1 - 조직의 ID 동기화 설정 
 
 이 연습에서는 Adatum Corporation의 보안 관리자인 Holly Dickson의 역할을 맡아 가상화된 랩 환경에 배포되어 있는 Microsoft 365를 사용합니다. 이 랩에서는 Microsoft 365 테넌트 계정과 로컬 Active Directory 계정 간의 ID 동기화를 구현합니다.
 
